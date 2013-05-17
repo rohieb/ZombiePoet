@@ -1,0 +1,21 @@
+[submodule "plugins/MediaWikiShortLinks"]
+	path = plugins/MediaWikiShortLinks
+	url = git@github.com:rohieb/supybot-MediaWikiShortLinks.git
+[submodule "plugins/Caller"]
+	path = plugins/Caller
+	url = git@github.com:rohieb/supybot-Caller.git
+[submodule "plugins/MediaWikiRcFeed"]
+	path = plugins/MediaWikiRcFeed
+	url = git@github.com:rohieb/supybot-MediaWikiRcFeed.git
+[submodule "plugins/Mensa"]
+	path = plugins/Mensa
+	url = git@github.com:rohieb/supybot-MensaTUBS.git
+[submodule "plugins/Lastfm"]
+	path = plugins/Lastfm
+	url = git@github.com:rohieb/supybot-LastFM.git
+[submodule "plugins/Weather"]
+	path = plugins/Weather
+	url = git://github.com/jamessan/Supybot-Weather.git
+[submodule "plugins/Markov"]
+	path = plugins/Markov
+	url = git://github.com/jamessan/Supybot-Markov.git
