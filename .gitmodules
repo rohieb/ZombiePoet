@@ -19,3 +19,6 @@
 [submodule "plugins/Markov"]
 	path = plugins/Markov
 	url = git://github.com/jamessan/Supybot-Markov.git
+[submodule "plugins/Insult"]
+	path = plugins/Insult
+	url = git://github.com/rohieb/supybot-Insult.git
